@@ -54,7 +54,7 @@ h1, h2, h3, h4 {
 /* ======= Hero ======= */
 .hero {
   position: relative;
-  background: url('img/mass.jpg') center/cover no-repeat;
+  background: url(/img/massV2.jpg) center/cover no-repeat;
   height: 70vh;
   display: flex;
   flex-direction: column;
