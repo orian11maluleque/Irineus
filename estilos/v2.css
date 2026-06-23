@@ -8,4 +8,12 @@
 header{
     padding: 5px;
 }
-
+header button{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+}
+header img{
+    width: 15px;
+    display: inline-block;
+}
