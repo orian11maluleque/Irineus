@@ -5,15 +5,24 @@
     margin: 0px;
 }
 
+.hicon{
+    width: 25px;
+}
+
 header{
-    padding: 5px;
+    width: 100vw;
+    background-color: cadetblue;
+    padding: 20px;
+    text-align: center;
+}
+header a{
+    margin: 10px;
+    text-decoration: none;
+    color: white;
 }
 header button{
-    width: 200px;
-    height: 40px;
+    height: 32px;
+    width: 180px;
+    border: 0px;
     border-radius: 5px;
-}
-header img{
-    width: 15px;
-    display: inline-block;
 }
